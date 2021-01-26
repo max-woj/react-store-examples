@@ -1,0 +1,16 @@
+.MySuperParagraph.darkMode{
+    background: navy;
+    color: yellow;
+}
+
+.MySuperParagraph.lightMode{
+    background: yellow;
+    color: navy;
+}
+
+.MySuperParagraph.wrapper{
+    border: 3px red solid;
+    border-radius: 5px;
+    font-size: 38px;
+    user-select: none;
+}
